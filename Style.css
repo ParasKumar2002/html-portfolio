@@ -1,0 +1,12 @@
+footer{
+    text-align: center;
+    padding: 5px;
+    background-color: #abbaba;
+    color: #000;
+}
+h2{
+    text-decoration: underline;
+}
+.aligncenter {
+    text-align: right;
+}
